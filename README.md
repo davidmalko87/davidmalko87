@@ -25,9 +25,9 @@ Other             Git · Docker · Monitoring · Automation
 | Project | What it does |
 |---------|-------------|
 | [`steam-library-exporter`](https://github.com/davidmalko87/steam-library-exporter) | Pulls your Steam library into a clean CSV using data from 3 different APIs |
-| [`get-logs-and-open-them`](https://github.com/davidmalko87/get-logs-and-open-them) | PowerShell tool that grabs logs and gets them in front of you fast |
-| [`check-services`](https://github.com/davidmalko87/check-services) | Monitors Windows services and alerts when something goes wrong |
-| [`send-message-when-url-is-not-accessible`](https://github.com/davidmalko87/send-message-when-url-is-not-accessible) | Watches URLs and sends alerts the moment one goes down |
+| [`windows-eventlog-exporter`](https://github.com/davidmalko87/windows-eventlog-exporter) | PowerShell tool that grabs Windows Event Log errors and warnings and opens them instantly |
+| [`windows-service-monitor`](https://github.com/davidmalko87/windows-service-monitor) | Monitors Windows services and sends an email alert when something stops |
+| [`windows-url-monitor`](https://github.com/davidmalko87/windows-url-monitor) | Watches a URL and sends an email alert the moment it goes down |
 
 ---
 
