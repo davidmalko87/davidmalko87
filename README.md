@@ -24,10 +24,10 @@ DevOps            Git · Docker · CI/CD · Monitoring · Automation
 |---------|-------------|------|
 | [`jira-project-backup-restore`](https://github.com/davidmalko87/jira-project-backup-restore) | Backup and restore individual Jira Cloud projects via REST API — with resumable operations, dry-run mode, and rate-limit handling | Python |
 | [`ytmusic-to-spotify-sync`](https://github.com/davidmalko87/ytmusic-to-spotify-sync) | Sync YouTube Music playlists to Spotify with smart ISRC/fuzzy track matching and incremental diff-based updates | Python |
-| [`steam-library-exporter`](https://github.com/davidmalko87/steam-library-exporter) | Export your Steam game library to a clean CSV using data from 3 different Steam APIs | Python |
-| [`windows-eventlog-exporter`](https://github.com/davidmalko87/windows-eventlog-exporter) | Fetch Windows Event Log errors and warnings and open them instantly for review | PowerShell |
-| [`windows-service-monitor`](https://github.com/davidmalko87/windows-service-monitor) | Monitor Windows services and send email alerts when something stops | PowerShell |
-| [`windows-url-monitor`](https://github.com/davidmalko87/windows-url-monitor) | Watch a URL and send an email alert the moment it goes down | PowerShell |
+| [`steam-library-exporter`](https://github.com/davidmalko87/steam-library-exporter) | Export your Steam game library to CSV — playtime, genres, metacritic scores, prices, and tags via Steam Web API + SteamSpy | Python |
+| [`windows-eventlog-exporter`](https://github.com/davidmalko87/windows-eventlog-exporter) | Export Windows Event Log errors and warnings from System and Application logs to text files and open them instantly | PowerShell |
+| [`windows-service-monitor`](https://github.com/davidmalko87/windows-service-monitor) | Monitor auto-start Windows services and send SMTP email alerts when any are found stopped — works with Task Scheduler | PowerShell |
+| [`windows-url-monitor`](https://github.com/davidmalko87/windows-url-monitor) | Monitor URL availability and send an email alert the moment a site goes down — with timestamped logging | PowerShell |
 
 ---
 
