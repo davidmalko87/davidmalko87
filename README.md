@@ -12,8 +12,9 @@ I write tools that solve real problems: from backing up Jira projects to syncing
 Infrastructure    PowerShell · Windows Server · Active Directory · Group Policy
 Networking        TCP/IP · DNS · DHCP · VPN · Firewalls · VLAN
 Scripting         PowerShell · Python · Bash
-Data & Backend    SQL · JSON · REST APIs · .NET (learning)
-DevOps            Git · Docker · CI/CD · Monitoring · Automation
+Data & APIs       SQL · JSON · REST APIs
+DevOps & Cloud    Git · Docker · CI/CD · Monitoring · Automation
+Security          Hardening · Firewalls · Access Control
 ```
 
 ---
@@ -33,9 +34,9 @@ DevOps            Git · Docker · CI/CD · Monitoring · Automation
 
 ### What I'm Working On
 
-- Building more Python automation and integration tools
-- Getting deeper into SQL, .NET, and backend development
-- Exploring AI-assisted operations and microservice architectures
+- Building Python automation and DevOps tooling
+- Exploring AI-assisted operations and cloud infrastructure
+- Diving deeper into SRE practices and security
 
 ---
 
