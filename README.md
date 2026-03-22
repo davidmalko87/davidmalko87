@@ -1,44 +1,44 @@
 ## Hey, I'm David 👋
 
-I'm an IT infrastructure engineer from Kharkiv, Ukraine. I spend my days keeping networks alive, taming Windows Server environments, and writing scripts so I never have to do the same boring thing twice.
+IT Infrastructure Engineer based in Kharkiv, Ukraine, working at **Dev.Pro** — building reliable networks, managing Windows Server environments, and automating everything I can get my hands on.
 
-Currently at **Dev.Pro**, juggling sysadmin work, network engineering, and integrations — and genuinely enjoying the chaos.
-
-Outside of work, I automate things that probably don't need automating, dig into Steam APIs for fun, and slowly work my way toward understanding .NET without losing my mind.
+I write tools that solve real problems: from backing up Jira projects to syncing music playlists across platforms. If it can be scripted, it probably should be.
 
 ---
 
-### What's in my toolbox
+### Tech Stack
 
 ```
 Infrastructure    PowerShell · Windows Server · Active Directory · Group Policy
 Networking        TCP/IP · DNS · DHCP · VPN · Firewalls · VLAN
 Scripting         PowerShell · Python · Bash
-Data & Backend    SQL · JSON · REST APIs · .NET (in progress)
-Other             Git · Docker · Monitoring · Automation
+Data & Backend    SQL · JSON · REST APIs · .NET (learning)
+DevOps            Git · Docker · CI/CD · Monitoring · Automation
 ```
 
 ---
 
-### Projects I've built
+### Projects
 
-| Project | What it does |
-|---------|-------------|
-| [`steam-library-exporter`](https://github.com/davidmalko87/steam-library-exporter) | Pulls your Steam library into a clean CSV using data from 3 different APIs |
-| [`windows-eventlog-exporter`](https://github.com/davidmalko87/windows-eventlog-exporter) | PowerShell tool that grabs Windows Event Log errors and warnings and opens them instantly |
-| [`windows-service-monitor`](https://github.com/davidmalko87/windows-service-monitor) | Monitors Windows services and sends an email alert when something stops |
-| [`windows-url-monitor`](https://github.com/davidmalko87/windows-url-monitor) | Watches a URL and sends an email alert the moment it goes down |
-
----
-
-### What I'm working on
-
-- More Python automation tools (there's always something to automate)
-- Getting serious with SQL and .NET
-- Exploring AI-assisted ops and microservice architectures
+| Project | Description | Tech |
+|---------|-------------|------|
+| [`jira-project-backup-restore`](https://github.com/davidmalko87/jira-project-backup-restore) | Backup and restore individual Jira Cloud projects via REST API — with resumable operations, dry-run mode, and rate-limit handling | Python |
+| [`ytmusic-to-spotify-sync`](https://github.com/davidmalko87/ytmusic-to-spotify-sync) | Sync YouTube Music playlists to Spotify with smart ISRC/fuzzy track matching and incremental diff-based updates | Python |
+| [`steam-library-exporter`](https://github.com/davidmalko87/steam-library-exporter) | Export your Steam game library to CSV — playtime, genres, metacritic scores, prices, and tags via Steam Web API + SteamSpy | Python |
+| [`windows-eventlog-exporter`](https://github.com/davidmalko87/windows-eventlog-exporter) | Export Windows Event Log errors and warnings from System and Application logs to text files and open them instantly | PowerShell |
+| [`windows-service-monitor`](https://github.com/davidmalko87/windows-service-monitor) | Monitor auto-start Windows services and send SMTP email alerts when any are found stopped — works with Task Scheduler | PowerShell |
+| [`windows-url-monitor`](https://github.com/davidmalko87/windows-url-monitor) | Monitor URL availability and send an email alert the moment a site goes down — with timestamped logging | PowerShell |
 
 ---
 
-### Say hi
+### What I'm Working On
 
-[📧 Email](mailto:davidmalko87@gmail.com) · [🔗 LinkedIn](https://linkedin.com/in/davidmalko87) · [🌐 Website](https://davidmalko87.com)
+- Building more Python automation and integration tools
+- Getting deeper into SQL, .NET, and backend development
+- Exploring AI-assisted operations and microservice architectures
+
+---
+
+### Connect
+
+[📧 Email](mailto:davidmalko87@gmail.com) · [🔗 LinkedIn](https://linkedin.com/in/davidmalko87) · [🌐 Website](https://davidmalko87.com) · [𝕏 Twitter](https://twitter.com/davidmalko87)
